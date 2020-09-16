@@ -1,0 +1,9 @@
+{
+  // you can also use comments
+  // "app.theme": "dark"
+  "app.theme": "dark",
+  "app.source": "javascript",
+  "app.result": "console",
+  "editor.tabSize": 4,
+  "editor.indentUnit": 4
+}
